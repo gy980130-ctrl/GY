@@ -3,7 +3,7 @@ import streamlit as st
 st.write('안녕하세요 리쿠 여친입니다.')
 
 st.markdown('''
-# 이 글은 마크다운으로 작성됨
+    앤시티위시 아랑해
             1. 항목
             ** 중요한 내용**
             ''')
