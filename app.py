@@ -9,3 +9,5 @@ st.markdown('''
             ''')
 # 탭
 tab1, tab2, tab3 = st.tabs(["메뉴1", "메뉴2", "메뉴3"])
+
+st.image('리쿠.jpge')
