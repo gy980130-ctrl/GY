@@ -9,7 +9,7 @@ st.markdown('''
             ''')
 
 st.tabs(["리쿠", "유우시", "사쿠야"])
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["메뉴1", "메뉴2", "메뉴3,])
+tab1, tab2, tab3 = st.tabs(["메뉴1", "메뉴2", "메뉴3,])
 
 
 with tab1:
