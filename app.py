@@ -8,8 +8,8 @@ st.markdown('''
             ** 중요한 내용**
             ''')
 
-st.tabs(["시온", "리쿠", "유우시","재희","료","사쿠야"])
-tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["메뉴1", "메뉴2", "메뉴3,"메뉴4", "메뉴5", "메뉴6"])
+st.tabs(["리쿠", "유우시", "사쿠야"])
+tab1, tab2, tab3, tab4, tab5, tab6 = st.tabs(["메뉴1", "메뉴2", "메뉴3,])
 
 
 with tab1:
