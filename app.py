@@ -1,5 +1,5 @@
 import streamlit as st
-st.title('리쿠의 2026년 추구미는 애햄입니다''')
+st.title('리쿠의 2026년 추구미는 애햄입니다')
 
 # 마크다운
 st.markdown('''
